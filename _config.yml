@@ -1,0 +1,7 @@
+title: Big Flower
+description: My first site on GitHub Pages
+theme: minima
+
+# (optional niceties)
+minima:
+  skin: classic   # try: dark, auto, solarized
