@@ -1,6 +1,6 @@
 title: Big Flower
 description: My first site on GitHub Pages
-theme: minima
+theme: jekyll-theme-minimal
 
 # (optional niceties)
 minima:
