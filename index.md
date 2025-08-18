@@ -3,4 +3,8 @@ layout: home
 title: Home
 ---
 
-Welcome to my site! 🎉
+<div class="home-buttons">
+  <a class="btn" href="/readings/">Readings</a>
+</div>
+
+This site contains information on historical redlining
